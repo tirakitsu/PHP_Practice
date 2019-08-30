@@ -1,6 +1,6 @@
 <?php
 /*
- * Write a PHP program to check if a given positive integer is a power of three. Go to the editor
+ * Write a PHP program to check if a given positive integer is a power of three.
  * Input : 9
  * Output : 9 is power of 3
  */

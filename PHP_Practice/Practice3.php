@@ -1,6 +1,6 @@
 <?php
 /*
- * Write a PHP program to check if a given positive integer is a power of four. Go to the editor
+ * Write a PHP program to check if a given positive integer is a power of four.
  * Input : 4
  * Output : 4 is power of 4
  */
